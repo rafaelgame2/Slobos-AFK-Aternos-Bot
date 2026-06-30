@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rafaxd11.aternos.me:12289",
+    "ip": "Rafaxd11.aternos.me",
     "port": 12289,
     "version": "",
     "try-creative": false
